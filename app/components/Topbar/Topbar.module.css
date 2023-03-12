@@ -1,0 +1,21 @@
+.wrapper {
+    width: 100%;
+    background-color: #000;
+    color: #fff;
+}
+
+.content {
+    width: min(100%, 65rem);
+    margin-inline: auto;
+    justify-content: space-between;
+    padding-block: .75rem;
+    display: flex;
+    padding-inline: .7px;
+}
+
+.link {
+    color: #fff;
+    text-decoration: none;
+}
+
+
